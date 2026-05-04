@@ -1,2 +1,9 @@
-# borderless-window-template---
-not much desc here lmao
+# a template about a borderless window
+
+not much desc here, but ill say its cool especially if ur tryna do something related to stuff that has some stuff to do with borderless windows :D
+
+# why did i do ts
+
+bcuz coding a dang c# codes of making the window draggable + resizable is hella long + annoying ]:[
+
+so decidedd to made a template of ts for ya :D
